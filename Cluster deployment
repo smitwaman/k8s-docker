@@ -1,6 +1,6 @@
 
 ## Prerequisites
-1. 2 or 3 Ubuntu 18.04/16.04 LTS System with Minimal Installation
+1. 2 or 3 Ubuntu 18.04/later LTS System with Minimal Installation
 2. Minimum 2 or more CPU, 3 GB RAM.
 3. Disable SWAP on All node
 4. SSH Access with sudo privileges
